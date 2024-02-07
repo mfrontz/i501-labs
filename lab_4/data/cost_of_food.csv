@@ -1,0 +1,24 @@
+Classification Name,Classification Code,Country Name,Country Code,Series Name,Series Code,2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021]
+Food Prices for Nutrition 1.0,FPN 1.0,United States,USA,Cost of a healthy diet,CoHD,3.225,3.24,3.268,3.383,..
+Food Prices for Nutrition 1.0,FPN 1.0,United States,USA,Population,Pop,325122128,326838199,328329953,329484123,..
+Food Prices for Nutrition 1.0,FPN 1.0,United States,USA,Millions of people who cannot afford a healthy diet,CoHD_unafford_n,6.5,5.7,4.9,4.9,..
+Food Prices for Nutrition 1.0,FPN 1.0,World,WLD,Cost of a healthy diet,CoHD,3.314,3.35,3.425,3.537,..
+Food Prices for Nutrition 1.0,FPN 1.0,World,WLD,Population,Pop,7208180851,7249963495,7327597278,7401935227,..
+Food Prices for Nutrition 1.0,FPN 1.0,World,WLD,Millions of people who cannot afford a healthy diet,CoHD_unafford_n,3049.1,2973.8,2961.9,3074.2,..
+Food Prices for Nutrition 1.1,FPN 1.1,United States,USA,Cost of a healthy diet,CoHD,3.225,3.24,3.268,3.383,..
+Food Prices for Nutrition 1.1,FPN 1.1,United States,USA,Population,Pop,325122128,326838199,328329953,331501080,..
+Food Prices for Nutrition 1.1,FPN 1.1,United States,USA,Millions of people who cannot afford a healthy diet,CoHD_unafford_n,6.5,5.7,4.9,4.9,..
+Food Prices for Nutrition 1.1,FPN 1.1,World,WLD,Cost of a healthy diet,CoHD,3.314,3.35,3.425,3.537,..
+Food Prices for Nutrition 1.1,FPN 1.1,World,WLD,Population,Pop,7262444211,7304446818,7381666960,7455671559,..
+Food Prices for Nutrition 1.1,FPN 1.1,World,WLD,Millions of people who cannot afford a healthy diet,CoHD_unafford_n,3125.1,3012.2,2955.7,3022.5,..
+Food Prices for Nutrition 2.0,FPN 2.0,United States,USA,Cost of a healthy diet,CoHD,3.225,3.24,3.268,3.383,3.5
+Food Prices for Nutrition 2.0,FPN 2.0,United States,USA,Population,Pop,325122128,326838199,328329953,331501080,331893745
+Food Prices for Nutrition 2.0,FPN 2.0,United States,USA,Millions of people who cannot afford a healthy diet,CoHD_unafford_n,6.5,5.7,4.9,4.1,4
+Food Prices for Nutrition 2.0,FPN 2.0,World,WLD,Cost of a healthy diet,CoHD,3.295,3.355,3.431,3.511,3.662
+Food Prices for Nutrition 2.0,FPN 2.0,World,WLD,Population,Pop,7262444211,7304446818,7381666960,7455671559,7519145737
+Food Prices for Nutrition 2.0,FPN 2.0,World,WLD,Millions of people who cannot afford a healthy diet,CoHD_unafford_n,3124.9,3019.1,3005.5,3191.9,3139.5
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Data from database: Food Prices for Nutrition,,,,,,,,,,
+Last Updated: 07/13/2023,,,,,,,,,,
