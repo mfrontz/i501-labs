@@ -103,6 +103,7 @@ def genius_to_df(search_term, n_results_per_term=10,
 
     return df
 
+# 1st version of function WITHOUT multiprocessing
 def genius_to_dfs(search_terms, **kwargs):
     """
     Generate a pandas.DataFrame from multiple calls to the Genius API.
@@ -135,6 +136,7 @@ def genius_to_dfs(search_terms, **kwargs):
     
     return pd.concat(dfs)
 
+# 2nd version of function using MULTIPROCESSING
 def genius_to_dfs_mp(search_terms, savepath = None):
     """
     Generate a pandas.DataFrame from multiple calls to the Genius API using Multiprocessing.
