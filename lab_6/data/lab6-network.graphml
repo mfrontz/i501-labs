@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="modularity_class" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Michael">
+  <data key="d0">0</data>
+</node>
+<node id="Carrie">
+  <data key="d0">1</data>
+</node>
+<node id="Judy">
+  <data key="d0">1</data>
+</node>
+<node id="Justin">
+  <data key="d0">1</data>
+</node>
+<node id="Julie">
+  <data key="d0">1</data>
+</node>
+<node id="Kathy">
+  <data key="d0">0</data>
+</node>
+<node id="Michelle">
+  <data key="d0">0</data>
+</node>
+<node id="Jason">
+  <data key="d0">0</data>
+</node>
+<node id="Alex">
+  <data key="d0">0</data>
+</node>
+<node id="Tim">
+  <data key="d0">0</data>
+</node>
+<node id="Jim">
+  <data key="d0">1</data>
+</node>
+<node id="Charles">
+  <data key="d0">0</data>
+</node>
+<node id="Billie">
+  <data key="d0">0</data>
+</node>
+<edge source="Michael" target="Carrie"/>
+<edge source="Michael" target="Judy"/>
+<edge source="Michael" target="Justin"/>
+<edge source="Michael" target="Julie"/>
+<edge source="Michael" target="Kathy"/>
+<edge source="Michael" target="Michelle"/>
+<edge source="Michael" target="Jason"/>
+<edge source="Michael" target="Alex"/>
+<edge source="Michael" target="Tim"/>
+<edge source="Michael" target="Jim"/>
+<edge source="Michael" target="Charles"/>
+<edge source="Michael" target="Billie"/>
+<edge source="Carrie" target="Judy"/>
+<edge source="Carrie" target="Justin"/>
+<edge source="Carrie" target="Julie"/>
+<edge source="Carrie" target="Kathy"/>
+<edge source="Carrie" target="Michelle"/>
+<edge source="Carrie" target="Jason"/>
+<edge source="Carrie" target="Alex"/>
+<edge source="Carrie" target="Tim"/>
+<edge source="Carrie" target="Jim"/>
+<edge source="Carrie" target="Charles"/>
+<edge source="Carrie" target="Billie"/>
+<edge source="Judy" target="Justin"/>
+<edge source="Judy" target="Julie"/>
+<edge source="Judy" target="Kathy"/>
+<edge source="Judy" target="Michelle"/>
+<edge source="Judy" target="Jim"/>
+<edge source="Justin" target="Julie"/>
+<edge source="Justin" target="Kathy"/>
+<edge source="Justin" target="Michelle"/>
+<edge source="Justin" target="Jim"/>
+<edge source="Julie" target="Jim"/>
+<edge source="Kathy" target="Michelle"/>
+<edge source="Kathy" target="Jason"/>
+<edge source="Kathy" target="Alex"/>
+<edge source="Kathy" target="Tim"/>
+<edge source="Kathy" target="Charles"/>
+<edge source="Kathy" target="Billie"/>
+<edge source="Michelle" target="Jason"/>
+<edge source="Michelle" target="Alex"/>
+<edge source="Michelle" target="Tim"/>
+<edge source="Michelle" target="Charles"/>
+<edge source="Michelle" target="Billie"/>
+<edge source="Jason" target="Alex"/>
+<edge source="Jason" target="Tim"/>
+<edge source="Jason" target="Charles"/>
+<edge source="Alex" target="Tim"/>
+<edge source="Charles" target="Billie"/>
+</graph></graphml>
